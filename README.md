@@ -1,0 +1,1 @@
+# plugins-control-xml-rpc-publishing
